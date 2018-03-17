@@ -1,0 +1,127 @@
+c:\users\user\documents\visual studio 2012\Projects\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\bin\Debug\MusicRatings.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.MusicRegister.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+E:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe.config
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.exe
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.pdb
+E:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe
+E:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.pdb
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+H:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe.config
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.exe
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.pdb
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+H:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe
+H:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.pdb
+I:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe.config
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.exe
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateMusic.resources
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+I:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.exe
+I:\MusicRatings\MusicRatings\bin\Debug\MusicRatings.pdb
+I:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.pdb
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+H:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+E:\MusicRatings\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.pdb
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+E:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.pdb
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+H:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+G:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+G:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+G:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.pdb
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+I:\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe.config
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.exe
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.pdb
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.exe
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\bin\Debug\MusicRatings.pdb
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csprojResolveAssemblyReference.cache
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddArtist.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddTrack.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.EditMyMusic.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.AddGenre.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.Properties.Resources.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.SplashScreen.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateArtist.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateGenre.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.UpdateTrack.resources
+C:\Users\cna\Desktop\Music Rating(hidden)\MusicRatings(By Liteboho James Lesenyeho)\MusicRatings\obj\Debug\MusicRatings.csproj.GenerateResource.Cache
